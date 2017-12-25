@@ -2,6 +2,10 @@
 
 > Simple Employee management system demo  using firebase cloud database, materializecss and Vuejs
 
+# Live Demo
+
+https://ipercin44.github.io/
+
 ## Build Setup
 
 ``` bash
@@ -17,7 +21,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-# Live Demo
-
-https://ipercin44.github.io/
